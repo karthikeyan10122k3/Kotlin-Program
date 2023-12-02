@@ -56,6 +56,5 @@ fun printHobbies(bullet: String, vararg hobbies: List<String>){
     for (hobby in hobbies){
         println("$bullet $hobby")
     }
-
 }
 
