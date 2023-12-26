@@ -6,7 +6,7 @@ fun main() {
     for (i in 'a'..'z'){
         alphabetSet.add(i)
     }
-    var inputSet = hashSetOf<Char>()
+    val inputSet = hashSetOf<Char>()
     for (i in input )
         if (!i.isWhitespace()){
             inputSet.add(i.lowercaseChar())
