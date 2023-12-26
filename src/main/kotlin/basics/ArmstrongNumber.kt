@@ -1,3 +1,5 @@
+package basics
+
 import kotlin.math.pow
 fun main(args: Array<String>) {
         print("Enter a Number:")

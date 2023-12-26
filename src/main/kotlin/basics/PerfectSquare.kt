@@ -1,3 +1,5 @@
+package basics
+
 import kotlin.math.sqrt
 
 fun main() {

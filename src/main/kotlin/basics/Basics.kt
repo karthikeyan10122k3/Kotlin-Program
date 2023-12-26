@@ -1,3 +1,5 @@
+package basics
+
 fun main() {
     // variable declaration
     val name = "Karthikeyan R"

@@ -1,3 +1,5 @@
+package basics
+
 fun main() {
     print("Enter Input : ")
     val input = readln()

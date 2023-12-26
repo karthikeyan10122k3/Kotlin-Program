@@ -1,3 +1,5 @@
+package basics
+
 fun main() {
     print("Enter no of Fibonacci :")
     val input = readln().toInt()

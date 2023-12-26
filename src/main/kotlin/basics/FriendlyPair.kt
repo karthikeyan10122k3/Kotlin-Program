@@ -1,3 +1,5 @@
+package basics
+
 fun main() {
     print("Enter a Number 1: ")
     val input1 = readln().toInt()

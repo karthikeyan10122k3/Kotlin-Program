@@ -1,3 +1,5 @@
+package basics
+
 fun main() {
     print("Enter a Number to find Factorial: ")
     val input = readln().toInt()

@@ -1,3 +1,5 @@
+package basics
+
 import java.lang.StringBuilder
 
 fun main() {
